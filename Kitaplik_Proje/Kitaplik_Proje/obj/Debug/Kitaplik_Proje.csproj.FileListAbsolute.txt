@@ -1,0 +1,10 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project36\Kitaplik_Proje\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.exe.config
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project36\Kitaplik_Proje\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project36\Kitaplik_Proje\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project36\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project36\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project36\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project36\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project36\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project36\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project36\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.pdb
